@@ -40,8 +40,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmae&theme=gotham" />
 </div>
 
-<img src="https://raw.githubusercontent.com/hmae/hmae/main/assets/sap2000.svg" width=100px height=40px/>
-
 <!--
  - - - aknowledge - - -
 thanks for many repositories out there and teams that works on technologies.
