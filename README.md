@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently free for work. however, as a side work iam BuildingUp Tools for ML and computer self structrual design calculations...
 - 🌱 I’m currently learning Java&someother Technologies...
 - 💬 Ask me about anything u need in civil engineering or software programming...
-- 📫 How to reach me: at anytime Discord :https://discord.gg/DkDGMz42ax ...
+- 📫 How to reach me: at anytime Discord :
+<a href="https://discord.gg/DkDGMz42ax">
+  <img align="left" alt="hosam's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a> ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i love Build Things to break it later ;D ...
 <!-- ICONS START -->
@@ -26,10 +29,10 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hmae&show_icons=true&theme=gotham&hide=stars,contribs,prs&count_private=true" />
 </a>
 <br>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmae&theme=gotham" />
 </a>
