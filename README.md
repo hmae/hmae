@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 <br>
 
 
-![hosam's github stats](https://github-readme-stats.vercel.app/api?username=hmae&show_icons=true&theme=radical&hide=stars,contribs,prs&count_private=true)
+![hosam's github stats](https://github-readme-stats.vercel.app/api?username=hmae&show_icons=true&theme=gotham&hide=stars,contribs,prs&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmae)](https://github.com/anuraghazra/github-readme-stats)
 
