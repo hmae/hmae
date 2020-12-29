@@ -19,7 +19,7 @@
 
 <h1 align='center'> Certificates of Courses Completation </h1>
 <div align='center' >
-<img src="https://raw.githubusercontent.com/hmae/Courses/master/CSI-Track.jpg" width=''33%'' height=300px/>
+<img src="https://raw.githubusercontent.com/hmae/Courses/master/CSI-Track.jpg" width='33%' height=300px/>
 <img src="https://raw.githubusercontent.com/hmae/Courses/master/OutstandingSite.jpg" width='33%' height=300px/>
 <img src="https://raw.githubusercontent.com/hmae/Courses/master/Revit%20Structure.jpg" width='33%' height=300px/>
 <img src="https://raw.githubusercontent.com/hmae/Courses/master/CodeCademyJavaCertification-page-001.jpg" width='33%' height=300px/>
