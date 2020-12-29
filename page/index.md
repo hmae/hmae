@@ -19,7 +19,6 @@
 
 <h1 align='center'> Certificates of Courses Completation </h1>
 
-<div align='center'>
 <img src="https://raw.githubusercontent.com/hmae/Courses/master/CSI-Track.jpg" width=400px height=300px/>
 <img src="https://raw.githubusercontent.com/hmae/Courses/master/OutstandingSite.jpg" width=400px height=300px/>
 <img src="https://raw.githubusercontent.com/hmae/Courses/master/Revit%20Structure.jpg" width=400px height=300px/>
@@ -36,7 +35,6 @@
 <img src="https://raw.githubusercontent.com/hmae/Courses/master/cybrary-cert-end-user-network-security-certification-training-course-page-001.jpg" width=400px height=300px/>
 <img src="https://raw.githubusercontent.com/hmae/Courses/master/cybrary-cert-mobile-app-security-page-001.jpg" width=400px height=300px/>
 <img src="https://raw.githubusercontent.com/hmae/Courses/master/cybrary-cert-python-page-001.jpg" width=400px height=300px/>
-</div>
 
 <!--
  - - - aknowledge - - -
