@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning Java&someother Technologies...
 - 💬 Ask me about anything u need in civil engineering or software programming...
 - 📫 How to reach me: <a href="https://discord.gg/DkDGMz42ax">
-  Discord <img align="center" alt="hosam's Discord" width="30px" src="https://github.com/hmae/hmae/blob/main/assets/discord-round.svg" /> </a><a href="https://www.linkedin.com/in/hosam-mohamed/"> LinkedIn <img align="center" alt="hosam's Linkedin" width="30px" src="https://github.com/hmae/hmae/blob/main/assets/linkedin.svg" />
-</a>   anytime, Keep in touch...
+  Discord </a> <a href="https://www.linkedin.com/in/hosam-mohamed/"> LinkedIn </a> anytime, Keep in touch...
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: **i love Build Things to break it later ;D** ...
@@ -15,12 +14,27 @@
 
 <br>
 <br>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=hmae&show_icons=true&theme=gotham&hide=stars,contribs,prs&count_private=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmae&theme=gotham" />
-</div>
 
+<h1 align='center'> Certificates of Courses Completation </h1>
+
+<div align='center'>
+<img src="https://github.com/hmae/Certificates/blob/master/CSI-Track.jpg" width=230 height=150/>
+<img src="https://github.com/hmae/Certificates/blob/master/OutstandingSite.jpg" width=230 height=150/>
+<img src="https://github.com/hmae/Certificates/blob/master/Revit%20Structure.jpg" width=230 height=150/>
+<img src="https://github.com/hmae/Certificates/blob/master/CodeCademyJavaCertification-page-001.jpg" width=230 height=150/>
+<img src="https://github.com/hmae/Certificates/blob/master/Sample%202020-09-06_3.jpg" width=230 height=150/>
+<img src="https://github.com/hmae/Certificates/blob/master/SoloLearnPython-page-001.jpg" width=230 height=150/>
+<img src="https://github.com/hmae/Certificates/blob/master/UC-94BKZJQY.jpg" width=230 height=150/>
+<img src="https://github.com/hmae/Certificates/blob/master/UC-94BKZJQY.jpg" width=230 height=150/>
+<img src="https://github.com/hmae/Certificates/blob/master/UC-E2WRZUNI.jpg" width=230 height=150/>
+<img src="https://github.com/hmae/Certificates/blob/master/UC-KOA8ZMGW.jpg" width=230 height=150/>
+<img src="https://github.com/hmae/Certificates/blob/master/UC-QREYWC0B.jpg" width=230 height=150/>
+<img src="https://github.com/hmae/Certificates/blob/master/UC-WVZTPDHH.jpg" width=230 height=150/>
+<img src="https://github.com/hmae/Certificates/blob/master/cybrary-cert-comptia-linux-plus-page-001.jpg" width=230 height=150/>
+<img src="https://github.com/hmae/Certificates/blob/master/cybrary-cert-end-user-network-security-certification-training-course-page-001.jpg" width=230 height=150/>
+<img src="https://github.com/hmae/Certificates/blob/master/cybrary-cert-mobile-app-security-page-001.jpg" width=230 height=150/>
+<img src="https://github.com/hmae/Certificates/blob/master/cybrary-cert-mobile-app-security-page-001.jpg" width=230 height=150/>
+</div>
 <!--
  - - - aknowledge - - -
 thanks for many repositories out there and teams that works on technologies.
