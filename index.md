@@ -19,22 +19,22 @@
 
 <h1 align='center'> Certificates of Courses Completation </h1>
 <div align='center' >
-<img src="https://raw.githubusercontent.com/hmae/Courses/master/CSI-Track.jpg" width='33%' height=300px/>
-<img src="https://raw.githubusercontent.com/hmae/Courses/master/OutstandingSite.jpg" width=33% height=300px/>
-<img src="https://raw.githubusercontent.com/hmae/Courses/master/Revit%20Structure.jpg" width=33% height=300px/>
-<img src="https://raw.githubusercontent.com/hmae/Courses/master/CodeCademyJavaCertification-page-001.jpg" width=33% height=300px/>
-<img src="https://raw.githubusercontent.com/hmae/Courses/master/Sample%202020-09-06_3.jpg" width=33% height=300px/>
-<img src="https://raw.githubusercontent.com/hmae/Courses/master/SoloLearnPython-page-001.jpg" width=33% height=300px/>
-<img src="https://raw.githubusercontent.com/hmae/Courses/master/UC-94BKZJQY.jpg" width=33% height=300px/>
-<img src="https://raw.githubusercontent.com/hmae/Courses/master/UC-94BKZJQY.jpg" width=33% height=300px/>
-<img src="https://raw.githubusercontent.com/hmae/Courses/master/UC-E2WRZUNI.jpg" width=33% height=300px/>
-<img src="https://raw.githubusercontent.com/hmae/Courses/master/UC-KOA8ZMGW.jpg" width=33% height=300px/>
-<img src="https://raw.githubusercontent.com/hmae/Courses/master/UC-QREYWC0B.jpg" width=33% height=300px/>
-<img src="https://raw.githubusercontent.com/hmae/Courses/master/UC-WVZTPDHH.jpg" width=33% height=300px/>
-<img src="https://raw.githubusercontent.com/hmae/Courses/master/cybrary-cert-comptia-linux-plus-page-001.jpg" width=33% height=300px/>
-<img src="https://raw.githubusercontent.com/hmae/Courses/master/cybrary-cert-end-user-network-security-certification-training-course-page-001.jpg" width=33% height=300px/>
-<img src="https://raw.githubusercontent.com/hmae/Courses/master/cybrary-cert-mobile-app-security-page-001.jpg" width=33% height=300px/>
-<img src="https://raw.githubusercontent.com/hmae/Courses/master/cybrary-cert-python-page-001.jpg" width=33% height=300px/>
+<img src="https://raw.githubusercontent.com/hmae/Courses/master/CSI-Track.jpg" width=''33%'' height=300px/>
+<img src="https://raw.githubusercontent.com/hmae/Courses/master/OutstandingSite.jpg" width='33%' height=300px/>
+<img src="https://raw.githubusercontent.com/hmae/Courses/master/Revit%20Structure.jpg" width='33%' height=300px/>
+<img src="https://raw.githubusercontent.com/hmae/Courses/master/CodeCademyJavaCertification-page-001.jpg" width='33%' height=300px/>
+<img src="https://raw.githubusercontent.com/hmae/Courses/master/Sample%202020-09-06_3.jpg" width='33%' height=300px/>
+<img src="https://raw.githubusercontent.com/hmae/Courses/master/SoloLearnPython-page-001.jpg" width='33%' height=300px/>
+<img src="https://raw.githubusercontent.com/hmae/Courses/master/UC-94BKZJQY.jpg" width='33%' height=300px/>
+<img src="https://raw.githubusercontent.com/hmae/Courses/master/UC-94BKZJQY.jpg" width='33%' height=300px/>
+<img src="https://raw.githubusercontent.com/hmae/Courses/master/UC-E2WRZUNI.jpg" width='33%' height=300px/>
+<img src="https://raw.githubusercontent.com/hmae/Courses/master/UC-KOA8ZMGW.jpg" width='33%' height=300px/>
+<img src="https://raw.githubusercontent.com/hmae/Courses/master/UC-QREYWC0B.jpg" width='33%' height=300px/>
+<img src="https://raw.githubusercontent.com/hmae/Courses/master/UC-WVZTPDHH.jpg" width='33%' height=300px/>
+<img src="https://raw.githubusercontent.com/hmae/Courses/master/cybrary-cert-comptia-linux-plus-page-001.jpg" width='33%' height=300px/>
+<img src="https://raw.githubusercontent.com/hmae/Courses/master/cybrary-cert-end-user-network-security-certification-training-course-page-001.jpg" width='33%' height=300px/>
+<img src="https://raw.githubusercontent.com/hmae/Courses/master/cybrary-cert-mobile-app-security-page-001.jpg" width='33%' height=300px/>
+<img src="https://raw.githubusercontent.com/hmae/Courses/master/cybrary-cert-python-page-001.jpg" width='33%' height=300px/>
 </div>
 <!--
  - - - aknowledge - - -
