@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://discord.gg/DkDGMz42ax">
   Discord <img align="center" alt="hosam's Discord" width="30px" src="https://github.com/hmae/hmae/blob/main/assets/discord-round.svg" />
 </a><a href="https://www.linkedin.com/in/hosam-mohamed/">
-  LinkedIn <img align="center" alt="hosam's Discord" width="30px" src="https://github.com/hmae/hmae/blob/main/assets/linkedin.svg" />
+  LinkedIn <img align="center" alt="hosam's Linkedin" width="30px" src="https://github.com/hmae/hmae/blob/main/assets/linkedin.svg" />
 </a>   anytime, Keep in touch...
 
 - 😄 Pronouns: ...
