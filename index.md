@@ -13,8 +13,6 @@
 - ⚡ Fun fact: **i love Build Things to break it later ;D** ...
 
 <br>
-<hr>
-<br>
 
 <!-- ICONS START -->
 <div align='center'>
