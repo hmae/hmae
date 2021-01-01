@@ -11,14 +11,14 @@
 <h2 align='center'> Certificates of Courses Completation </h2>
 
 <div align='center' >
-    <img src="https://github.com/hmae/hmae/blob/main/learn-path/assets/CSI-Track.jpg" width='40%' height=300px/>
-    <img src="https://github.com/hmae/hmae/blob/main/learn-path/assets/OutstandingSite.jpg" width='40%' height=300px/>
-    <img src="https://github.com/hmae/hmae/blob/main/learn-path/assets/Revit%20Structure.jpg" width='40%' height=300px/>
-    <img src="https://github.com/hmae/hmae/blob/main/learn-path/assets/UC-94BKZJQY.jpg" width='40%' height=300px/>
-    <img src="https://github.com/hmae/hmae/blob/main/learn-path/assets/UC-KOA8ZMGW.jpg" width='40%' height=300px/>
-    <img src="https://github.com/hmae/hmae/blob/main/learn-path/assets/UC-QREYWC0B.jpg" width='40%' height=300px/>
-    <img src="https://github.com/hmae/hmae/blob/main/learn-path/assets/UC-WVZTPDHH.jpg" width='40%' height=300px/>
-    <img src="https://github.com/hmae/hmae/blob/main/learn-path/assets/cybrary-cert-comptia-linux-plus-page-001.jpg" width='40%' height=300px/>
-    <img src="https://github.com/hmae/hmae/blob/main/learn-path/assets/cybrary-cert-end-user-network-security-certification-training-course-page-001.jpg" width='40%' height=300px/>
-    <img src="https://github.com/hmae/hmae/blob/main/learn-path/assets/cybrary-cert-python-page-001.jpg" width='40%' height=300px/>
+    <img src="https://raw.githubusercontent.com/hmae/hmae/main/learn-path/assets/CSI-Track.jpg" width='40%' height=300px/>
+    <img src="https://raw.githubusercontent.com/hmae/hmae/main/learn-path/assets/OutstandingSite.jpg" width='40%' height=300px/>
+    <img src="https://raw.githubusercontent.com/hmae/hmae/main/learn-path/assets/Revit%20Structure.jpg" width='40%' height=300px/>
+    <img src="https://raw.githubusercontent.com/hmae/hmae/main/learn-path/assets/UC-94BKZJQY.jpg" width='40%' height=300px/>
+    <img src="https://raw.githubusercontent.com/hmae/hmae/main/learn-path/assets/UC-KOA8ZMGW.jpg" width='40%' height=300px/>
+    <img src="https://raw.githubusercontent.com/hmae/hmae/main/learn-path/assets/UC-QREYWC0B.jpg" width='40%' height=300px/>
+    <img src="https://raw.githubusercontent.com/hmae/hmae/main/learn-path/assets/UC-WVZTPDHH.jpg" width='40%' height=300px/>
+    <img src="https://raw.githubusercontent.com/hmae/hmae/main/learn-path/assets/cybrary-cert-comptia-linux-plus-page-001.jpg" width='40%' height=300px/>
+    <img src="https://raw.githubusercontent.com/hmae/hmae/main/learn-path/assets/cybrary-cert-end-user-network-security-certification-training-course-page-001.jpg" width='40%' height=300px/>
+    <img src="https://raw.githubusercontent.com/hmae/hmae/main/learn-path/assets/cybrary-cert-python-page-001.jpg" width='40%' height=300px/>
 </div>
