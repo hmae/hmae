@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="hosam-mohamed">
+  <a class="LI-simple-link" href="https://eg.linkedin.com/in/hosam-mohamed?trk=profile-badge">Hosam M Ali</a>
+</div>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+
+
 - 🔭 I’m currently free for work.
 - 🌱 I’m currently learning to Build Up Tools for ML to do self structrual design calculations...
 - 💬 Ask me about anything u need in civil engineering or programming, we must share knowledge...
