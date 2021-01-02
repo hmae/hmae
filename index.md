@@ -32,7 +32,7 @@
     i was wondering around how these programs work and why.!?<br>
     they are a combination between doing calculations using codes in a good graphically way .<br>
     why not learn that, i dont want to be just a user who use tools that others built already .!<br>
-    why not join the creators ?! &nbsp &nbsp <b>all things begins from here</b>
+    why not join the creators ?!   <b>all things begins from here</b>
   </p>
   <p> i have a dream to build a fully staffed software for civil engineering that can help in all directions.<br>
     surveying, structure analysis, shope drawings, more and more.<br>
