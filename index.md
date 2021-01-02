@@ -91,7 +91,7 @@
 <!-- ICONS END -->
 <hr>
 
-<h2 align='center'> Certificates of Courses Completation </h2>
+<h2 align='center'> Certificates of Courses Completion </h2>
 <br>
 
 <div align='center' >
