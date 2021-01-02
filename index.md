@@ -5,7 +5,7 @@
   i used to learn many things as a hoppy <br> That because of my passion about science and physics as first then modern technologies second and what can be done throw it third.<br>
   <br>
 </div>
-<dev>
+<div>
   <h3> let me introduce myself </h3>
   I am hosam a civil engineer, i used to be the tech boy. who have his touches on his tiny lovely keyboard
   so i admit to improve myself in engineering using computing technologies.
@@ -16,9 +16,9 @@
   so i have my passion about it.
   <p></p>
 </div>
-<dive>
+<div>
+  <h3> let me share this with you, i had two stories</h3>
   <ol>
-    <h3> let me share this with you, i had two stories</h3>
     <li>during the 2rd year in college, i faced a big table of numbers<br>
       to do calculations for Moment Distribution Method in Structure.<br>
       so i admit to write a script to do this calculations for me </li>
