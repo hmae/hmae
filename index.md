@@ -36,7 +36,7 @@
   </p>
   <p> i have a dream to build a fully staffed software for civil engineering that can help in all directions.<br>
     surveying, structure analysis, shope drawings, more and more.<br>
-    i wrote that in a paper and stick it on the wall look at it everyday .&nbsp<b>#achieving it one day<b>.
+    i wrote that in a paper and stick it on the wall look at it everyday . &nbsp <b> #achieving it one day <b>.
   </p>
 </div>
 
