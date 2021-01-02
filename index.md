@@ -3,6 +3,9 @@
 <div> 
   This is slightly different from usual i think.
   i used to learn many things as a hoppy <br> That because of my passion about science and physics as first then modern technologies second and what can be done throw it third.<br>
+  <br>
+</div>
+<dev>
   <h3> let me introduce myself </h3>
   I am hosam a civil engineer, i used to be the tech boy. who have his touches on his tiny lovely keyboard
   so i admit to improve myself in engineering using computing technologies.
@@ -12,9 +15,10 @@
   <br>
   so i have my passion about it.
   <p></p>
-
-  <h4> let me share this with you, i had two stories</h4><br> 
+</div>
+<dive>
   <ol>
+    <h3> let me share this with you, i had two stories</h3>
     <li>during the 2rd year in college, i faced a big table of numbers<br>
       to do calculations for Moment Distribution Method in Structure.<br>
       so i admit to write a script to do this calculations for me </li>
@@ -23,23 +27,22 @@
       in some point it depends on Iteration. so u know ;D<br> 
     </li>
   </ol>
+  <hr>
   <p> 
-    3rd and 4th year , i faced csi programs, autocad, revit, prokon to do necessary design steps.<br>
+    during 3rd and 4th year , i faced csi programs, autocad, revit, prokon to do necessary design steps.<br>
     i was wondering around how these programs work and why.!?<br>
     they are a combination between doing calculations using codes in a good graphically way .<br>
     why not learn that, i dont want to be just a user who use tools that others built already .!<br>
-    why not join the creators ?!<br>
-    <b>all things begins from here</b>
+    why not join the creators ?!<b>all things begins from here</b>
   </p>
   <p> i have a dream to build a full staffed software for civil engineering that can help in all directions.<br>
     surveying, structure analysis, shope drawings, more and more.
   </p>
   <P> i wrote that in a paper and stick it on the wall look at it everyday .achieving it one day. </P>
 </div>
-
+<br><hr>
 <div>
-  <p> the following section has a preview of my skills. </p>
-  <h3> # my skills are most around Computer, </h3>
+  <h3> the following section has a preview of my skills. </h3>
   <ul>
     <b>Engineering Programs</b>
     <li>80% AutoCAD 2D</li>
