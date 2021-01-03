@@ -49,9 +49,9 @@ Here are some ideas to get you started:
 <br>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=hmae&show_icons=true&theme=gotham&hide=stars,contribs,prs&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hmae&show_icons=true&theme=flag-india&hide=stars,contribs,prs&count_private=true" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmae&theme=gotham" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmae&theme=flag-india" />
 </div>
 
 <!--
