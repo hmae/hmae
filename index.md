@@ -16,6 +16,7 @@
   so i have my passion about it.
   <p></p>
 </div>
+<!-- 
 <div>
   <h3> let me share this with you, i had two stories</h3>
   <ol>
@@ -38,7 +39,9 @@
     surveying, structure analysis, shope drawings, more and more.<br>
     i wrote that in a paper and stick it on the wall look at it everyday.   <b> #achieving it one day. </b>
   </p>
+-->
 </div>
+
 
 <hr>
 <br>
