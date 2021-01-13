@@ -2,20 +2,21 @@
 <hr>
 <div> 
   This is slightly different from usual i think.
-  i used to learn many things as a hoppy <br> That because of my passion about science and physics as first then modern technologies second and what can be done throw it third.<br>
+  i used to learn many things as a hoppy <br> That because of my passion about science, physics, modern technologies and what can be done throw it.<br>
   <br>
 </div>
+
 <div>
   <h3> let me introduce myself </h3>
   I am hosam a civil engineer, i used to be the tech boy. who have his touches on his tiny lovely keyboard
   so i admit to improve myself in engineering using computing technologies.
   <br>
   Knowing that everything can be done throw coding as Calculations, graphics , etc ..<br>
-  Is a big deal for me to learn programming in good a way.
+  Is a big deal for me to learn programming in good way.
   <br>
   so i have my passion about it.
-  <p></p>
 </div>
+
 <!-- 
 <div>
   <h3> let me share this with you, i had two stories</h3>
@@ -39,8 +40,7 @@
     surveying, structure analysis, shope drawings, more and more.<br>
     i wrote that in a paper and stick it on the wall look at it everyday.   <b> #achieving it one day. </b>
   </p>
--->
-</div>
+</div>-->
 
 
 <hr>
@@ -67,8 +67,7 @@
 <div>
   <p>
     - 🔭 I’m currently seeking an opportunity for Civil Structural Engineering.
-    <br>- 🌱 I’m currently learning to Build Up Tools for ML to do some self structrual design staff...
-    <br>- 💬 Ask me about anything u need in civil engineering or programming, we must share knowledge...
+    <br>- 💬 Ask me about anything in civil engineering or programming ...
     <br>- 📫 How to reach me: <a href="https://discord.gg/DkDGMz42ax">
       Discord <img align="center" alt="hosam's Discord" width=30px height=30px src="https://raw.githubusercontent.com/hmae/hmae/main/assets/ico/discord-round.svg" />
     </a><a href="https://www.linkedin.com/in/hosam-mohamed/">
