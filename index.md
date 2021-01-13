@@ -8,7 +8,7 @@
 
 <div>
   <h3> let me introduce myself </h3>
-  I am hosam m. ali a civil engineer, i used to be the tech boy. who have his touches on the keybo
+  I am hosam m. ali a civil engineer, i used to be the tech boy. who have his touches on the keybo<br>
   so i admit to improve myself in engineering using computing technologies.
   <br>
   Knowing that everything can be done throw coding as Calculations, graphics , etc ..<br>
