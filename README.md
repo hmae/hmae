@@ -55,7 +55,7 @@ Here are some ideas to get you started:
         <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=hmae&theme=flag-india" />
     </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=hmae&label=views%20%20%20%20%20%20%20%20%20%20%20%20&color=green"/>
+<img src="https://komarev.com/ghpvc/?username=hmae&label=profile views%20%20%20%20%20%20%20%20%20%20%20%20&color=green"/>
 
 <!--
  - - - aknowledge - - -
