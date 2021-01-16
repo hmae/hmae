@@ -107,7 +107,7 @@
     <img src="https://raw.githubusercontent.com/hmae/hmae/main/learn-path/assets/cybrary-cert-python-page-001.jpg" width='40%' height=300px/>
 </div>
 <hr>
-<h3> THANK YOU FOR TIME READING MY SIMPLE PAGE , I HOPE YOU FIND WHAT YOU NEED <br> DONT HESITATE CALLING ME , JUST OPEN THE PHONE AND CLICK CALL OR SEND MSG </h3>
+<h3> THANK YOU FOR TAKING A BREAK FOR READING, I APPRECIATE THAT. KEEP IN TOUCH ANYTIME.<BR>THANKS FOR EVERYONE HELP IN BUILDING A BRICK OF THE BIG TECHNOLOGY HALL THAT WE ALL CAN USE NOWADAYS.</h3>
 
 <!--
  - - - aknowledge - - -
