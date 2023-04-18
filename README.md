@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/hosammae" target="blank"><img src="https://img.shields.io/twitter/follow/hosammae?logo=twitter&style=for-the-badge" alt="hosammae" /></a> </p>
 
-- 🔭 I’m currently working as **Site Engineer**
+- 🔭 I’m currently working as **Technical office Engineer**
 
 - 👯 I’m looking to collaborate on **Construction Projects**
 
 - 🤝 I’m looking for help with **BIM, Python, Freelancing**
 
-- 👨‍💻 All of my projects are available at [http://hmae.rtfd.io/](http://hmae.rtfd.io/)
+- 👨‍💻 Portfolio is available at [http://hmae.rtfd.io/](http://hmae.rtfd.io/)
 
 - 💬 Ask me about **Python, Structure Designs, BIM**
 
