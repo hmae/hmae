@@ -20,10 +20,10 @@
     <a href="https://www.prokon.com/" target="_blank"><img src="https://raw.githubusercontent.com/hmae/hmae/master/docs/assets/ico/PROKON-1.png" alt='PROKON' height="40" width="40"/></a>
 </p>
 
-
+<!-- 
 <p> A gentel preview of Certified Courses </p>
 <iframe src="https://docs.google.com/viewer?url=https://github.com/hmae/hmae/raw/master/docs/assets/certs.pdf &embedded=true"  width=600 height=400></iframe>
-
+ -->
 
 
 
