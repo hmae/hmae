@@ -13,13 +13,12 @@
 
 - 🤝 I’m looking for help with **BIM, Python, Freelancing**
 
-- 👨‍💻 Portfolio is available at [http://hmae.rtfd.io/](http://hmae.rtfd.io/)
+- 👨‍💻 Portfolio and experiences available at [http://hmae.rtfd.io/](http://hmae.rtfd.io/)
 
 - 💬 Ask me about **Python, Structure Designs, BIM**
 
-- 📫 How to reach me **via Social Links**
+- 📫 Reach me **via Social Links**
 
-- 📄 Know about my experiences [http://hmae.rtfd.io/](http://hmae.rtfd.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
