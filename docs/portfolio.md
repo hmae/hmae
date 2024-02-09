@@ -5,6 +5,6 @@
   <p> under construction </p>
 
 
-  <img alt='cat' src="gif/../assets/gif/tenor-cat.gif" width=100>
+  <img alt='cat' src="/assets/gif/tenor-cat.gif" width=100>
 
 </div>
