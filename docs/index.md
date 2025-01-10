@@ -2,28 +2,34 @@
 # Resume
 
 <div align='center'>
-<img width=400 src="https://github.com/hmae/hmae/raw/master/docs/assets/welcome.jpg" alt='stock.adobe.com  welcome picture'>
+<img width=500px height=200px src="https://www.svgrepo.com/show/39989/welcome.svg" alt='stock.adobe.com  welcome picture'>
 </div>
 
 <hr>
 
-<p aligh=center style=font-family:elephant;font-size:30px> <b> <span style=color:green> visit</span>
-    <a href="https://www.behance.net/hosammae992a">
-        <img height=40px width=110px src="https://cdn.worldvectorlogo.com/logos/behance-3.svg" alt="behance"/>
+<p aligh=center style=font-family:elephant;font-size:30px>
+    <img width=30px height=30px src="https://www.svgrepo.com/show/22482/album.svg"/> 
+    <b> <span style=color:green> visit</span>
+    <a href="https://www.behance.net/hosammae992a"  target="_blank">
+        <img height=40px width=110px src="https://cdn.worldvectorlogo.com/logos/behance-3.svg" alt="behance">
     </a>
     for <span style=color:orange >Portfolio</span> and <span style=color:#aa55cc >Previews
     </b>
 </p>
 
-<p aligh=center style=font-family:elephant;font-size:30px> <b> <span style=color:green> My</span>
-    <a href="https://linkedin.com/in/hosam-mohamed">
+<p aligh=center style=font-family:elephant;font-size:30px>
+    <img width=30px height=30px src="https://www.svgrepo.com/show/33546/plane-ticket.svg"/>
+    <b> <span style=color:green> My</span>
+    <a href="https://linkedin.com/in/hosam-mohamed" target="_blank">
         <img height=40px width=170px src="https://cdn.worldvectorlogo.com/logos/linkedin-logo-2013-1.svg" alt="behance"/> </a>
     <span style=color:orange >Profile
     </b>
 </p>
 
-<p aligh=center style=font-family:elephant;font-size:30px> <b> <span style=color:green> Join</span>
-<a href="https://discord.gg/https://discord.gg/VqTPh6599f">
+<p aligh=center style=font-family:elephant;font-size:30px>
+    <img width=30px height=30px src="https://www.svgrepo.com/show/7131/palm-tree.svg"/>
+    <b> <span style=color:green> Join</span>
+    <a href="https://discord.gg/https://discord.gg/VqTPh6599f" target="_blank">
         <img height=40px width=150px src="https://cdn.worldvectorlogo.com/logos/discord-logo-color-wordmark-1.svg" alt="behance"/> </a>
     <span style=color:gray > keep in contact
     </b>
@@ -32,7 +38,9 @@
 <div align="left">
 
 <b>
-    <div style=color:orange;font-size:30px;font-family:elephant> # <span style=color:brown> computer </span> skills
+    <div style=color:orange;font-size:30px;font-family:elephant>
+    <img width=60px height=40px src="https://www.svgrepo.com/show/477108/computer.svg">
+    <span style=color:brown> computer </span> skills
     <h5 style=color:brown align=center> Engineering </p>
     </div>
 </b>
