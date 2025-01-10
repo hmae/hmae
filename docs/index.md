@@ -9,7 +9,7 @@
 
 <p aligh=center style=font-family:elephant;font-size:30px> <b> <span style=color:green> visit</span>
     <a href="https://www.behance.net/hosammae992a">
-        <img height=40 src="https://cdn.worldvectorlogo.com/logos/behance-3.svg" alt="behance"/>
+        <img height=40px src="https://cdn.worldvectorlogo.com/logos/behance-3.svg" alt="behance"/>
     </a>
     for <span style=color:orange >Portfolio</span> and <span style=color:#aa55cc >Previews
     </b>
@@ -17,14 +17,14 @@
 
 <p aligh=center style=font-family:elephant;font-size:30px> <b> <span style=color:green> My</span>
     <a href="https://linkedin.com/in/hosam-mohamed">
-        <img height=40 src="https://cdn.worldvectorlogo.com/logos/linkedin-logo-2013-1.svg" alt="behance"/> </a>
+        <img height=40px src="https://cdn.worldvectorlogo.com/logos/linkedin-logo-2013-1.svg" alt="behance"/> </a>
     <span style=color:orange >Profile
     </b>
 </p>
 
 <p aligh=center style=font-family:elephant;font-size:30px> <b> <span style=color:green> Join</span>
 <a href="https://discord.gg/https://discord.gg/VqTPh6599f">
-        <img height=40 src="https://cdn.worldvectorlogo.com/logos/discord-logo-color-wordmark-1.svg" alt="behance"/> </a>
+        <img height=40px src="https://cdn.worldvectorlogo.com/logos/discord-logo-color-wordmark-1.svg" alt="behance"/> </a>
     <span style=color:gray > keep in contact
     </b>
 </p>

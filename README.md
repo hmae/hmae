@@ -3,9 +3,9 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmae&label=Profile%20views&color=0e75b6&style=flat" alt="hmae" /> </p> -->
 
-### <span style=color:green> **Technical office Engineer** </span>
+###  **Technical office Engineer**
 
-### <span style=color:green > Interested in </span><span style=color:purple> **Civil & infra Projects, BIM, Python ...** </span>
+### Interested in **Civil & infra Projects, BIM, Python ...**
 
 ### Personal Website : [http://hmae.rtfd.io/](http://hmae.rtfd.io/)
 
@@ -24,9 +24,9 @@
     </a>
 </p>
 
-## <span style=color:green> # Technologies </span>
+## # Technologies
 
-### <span style=color:orange> - Engineering </span>
+### - Engineering
 
 <a href="https://www.autodesk.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/hmae/hmae/master/docs/assets/ico/autocad1.png" alt='autocad' width=150px height=40px/></a>
@@ -44,7 +44,7 @@
 <a href="https://www.prokon.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/hmae/hmae/master/docs/assets/ico/PROKON-1.png" alt='PROKON' height="40" width="60"/></a>
 
-### <span style=color:orange> - Programming
+### - Programming
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50" width="50"/> </a> 
@@ -79,7 +79,7 @@
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="50" width="50"/> </a>
 
-<br><br><br>
+<br>
 
 <p align=left>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hmae&show_icons=true&locale=en&layout=compact" alt="hmae" /></p>
