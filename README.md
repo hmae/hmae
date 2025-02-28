@@ -3,7 +3,8 @@
 <div align='center' style="background:#123; color:#fff">
     <h3> Hi 👋, &nbsp; I'm Hosam Mohamed </h3>
 </div>
-    <h3> Civil Structural & infra Engineer and Pythonista </h3>
+
+<h3> Civil Structural & infra Engineer and Pythonista </h3>
 
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=hmae&label=Profile%20views&color=0e75b6&style=flat" alt="hmae" /> </p> -->
