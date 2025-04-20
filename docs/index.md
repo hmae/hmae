@@ -101,8 +101,3 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="50" width="50"/> </a>
 
 </div>
-
-<!-- 
-<p> A gentel preview of Certified Courses </p>
-<iframe src="https://docs.google.com/viewer?url=https://github.com/hmae/hmae/raw/master/docs/assets/certs.pdf &embedded=true"  width=600 height=400></iframe>
- -->
