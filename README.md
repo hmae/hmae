@@ -80,8 +80,9 @@
     <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="flask" height="50" width="80"/> </a>
 <a href="https://www.scipy.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/hmae/hmae/master/docs/assets/ico/scipy1.png" alt='scipy' width=100px height=50px/></a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="50" width="50"/> </a>
+
+<!-- a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="50" width="50"/> </a> -->
 
 <!--a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="50" width="50"/> </a>
@@ -101,4 +102,5 @@
 <iframe src="https://www.behance.net/embed/project/224099993?ilo0=1" height="200" width="300" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 <iframe src="https://www.behance.net/embed/project/224100963?ilo0=1" height="200" width="300" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 <iframe src="https://www.behance.net/embed/project/224102025?ilo0=1" height="200" width="300" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
 <h4 align='center' style="background:#123; color:#fff"> hmae @2025 </h4>
