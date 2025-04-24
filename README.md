@@ -71,8 +71,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" height="50" width="50"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="50" width="50"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="50" width="50"/> </a>
+<!-- a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="50" width="50"/> </a-->
 <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" height="50" width="50"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
