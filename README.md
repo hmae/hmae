@@ -3,12 +3,12 @@
     <h3> Hi 👋, &nbsp; I'm Hosam Mohamed </h3>
 </div>
 
-<h3> Civil Structural & Infrastructure Engineer · Python Developer
+<h3> Technical Office Engineer | Infrastructure | Structural | Python developer
  </h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=hmae&label=Profile%20views&color=0e75b6&style=flat" alt="hmae" /> </p> -->
 <div>
-<p> Technical office Engineer <br> Interested in Civil & infra Projects, BIM and Python ...</p>
+<p> Interested in Civil & infra Projects, BIM and Python ...</p>
 </div>
 
 <!--### Personal Website : [http://hmae.rtfd.io/](http://hmae.rtfd.io/) -->
