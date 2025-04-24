@@ -20,7 +20,7 @@
         <img height=30 src="https://cdn.worldvectorlogo.com/logos/linkedin-logo-2013-1.svg" alt="behance"/> </a> 
     <!--a href="https://discord.gg/https://discord.gg/VqTPh6599f">
         <img height=30 src="https://cdn.worldvectorlogo.com/logos/discord-logo-color-wordmark-1.svg" alt="behance"/> </a-->
-    <a style="background:#ee0" href="https://drive.google.com/file/d/1ZbmmnE0qlW0smIZyS0vpFcZzEWNjFp1V/view?usp=sharing"> <h3 style="text-align:center"> * Portfolio * </h1>
+    <a style="background:#ee0" href="https://drive.google.com/file/d/1ZbmmnE0qlW0smIZyS0vpFcZzEWNjFp1V/view?usp=sharing"> <h3 style="text-align:center"> * Portfolio * </h3></a>
 </p>
 
 <!--p align=left>
