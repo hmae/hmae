@@ -23,10 +23,10 @@
     <a style="background:#ee0" href="https://drive.google.com/file/d/1ZbmmnE0qlW0smIZyS0vpFcZzEWNjFp1V/view?usp=sharing"> <h3 style="text-align:center"> * Portfolio * </h3></a>
     <div style="text-align:center">
         <a style="background:#bee" href="https://drive.google.com/file/d/1hdi0spA1LWjFwxlChStOaFKaBJey6xux/view?usp=sharing">
-            <h3 style="text-align:center; display:inline;">"English CV"</h3></a>
-            <span style="padding:50px"></span>
-        <a style="background:#bee;" href="https://drive.google.com/file/d/1ZbmmnE0qlW0smIZyS0vpFcZzEWNjFp1V/view?usp=sharing">
-            <h3 style="text-align:center; display:inline;">"Arabic CV"</h3></a>
+            <h3 style=" display:inline;">"English CV"</h3></a>
+        <span style="padding:0px 50px 0px 50px"></span>
+        <a style="background:#bee;" href="https://drive.google.com/file/d/1xFUhHrjY3BAdydjKfZt-XzOvJamZtFse/view?usp=sharing">
+            <h3 style="display:inline;">"Arabic CV"</h3></a>
     </div>
 </p>
 
