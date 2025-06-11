@@ -21,6 +21,13 @@
     <!--a href="https://discord.gg/https://discord.gg/VqTPh6599f">
         <img height=30 src="https://cdn.worldvectorlogo.com/logos/discord-logo-color-wordmark-1.svg" alt="behance"/> </a-->
     <a style="background:#ee0" href="https://drive.google.com/file/d/1ZbmmnE0qlW0smIZyS0vpFcZzEWNjFp1V/view?usp=sharing"> <h3 style="text-align:center"> * Portfolio * </h3></a>
+    <div style="text-align:center">
+        <a style="background:#bee" href="https://drive.google.com/file/d/1hdi0spA1LWjFwxlChStOaFKaBJey6xux/view?usp=sharing">
+            <h3 style="text-align:center; display:inline;">"English CV"</h3></a>
+            <span style="padding:50px"></span>
+        <a style="background:#bee;" href="https://drive.google.com/file/d/1ZbmmnE0qlW0smIZyS0vpFcZzEWNjFp1V/view?usp=sharing">
+            <h3 style="text-align:center; display:inline;">"Arabic CV"</h3></a>
+    </div>
 </p>
 
 <!--p align=left>
