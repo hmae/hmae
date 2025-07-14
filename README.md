@@ -11,6 +11,21 @@
 <p> Interested in Civil & infra Projects, BIM and Python ...</p>
 </div>
 
+<section id="available-for-work" style="background-color: #f0f0f0; padding: 30px; border-radius: 10px; margin-top: 40px;">
+  <h2 style="text-align: center; color: #333;">👷‍♂️ مهندس مكتب فني</h2>
+  <p style="font-size: 18px; color: #444; line-height: 1.8; text-align: center;">
+    أعمل حاليًا كمهندس مكتب فني في مشاريع بنية تحتية وطرق، ولدي خبرة مثبتة في إعداد الرسومات التنفيذية، الحصر، ونمذجة المشاريع باستخدام Civil 3D وRevit.  
+    <br><br>
+    أجيد اللغة الإنجليزية، وأمتلك خبرة برمجية تساعد في تسريع المهام وتقديم حلول دقيقة (Python).  
+    <br><br>
+    <br><br>
+    📞 للتواصل المباشر: <strong>+20 111 460 7205</strong>  
+    <br>
+    📧 الإيميل: <strong>hosam.mae@gmail.com</strong>
+  </p>
+</section>
+
+
 <!--### Personal Website : [http://hmae.rtfd.io/](http://hmae.rtfd.io/) -->
 
 <p align="center">
