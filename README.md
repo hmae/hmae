@@ -12,40 +12,55 @@
 </div>
 
 <section id="available-for-work" style="background-color: #f0f0f0; padding: 30px; border-radius: 10px; margin-top: 40px;">
-  <h2 style="text-align: center; color: #333;">👷‍♂️ مهندس مكتب فني</h2>
-  <p style="font-size: 18px; color: #444; line-height: 1.8; text-align: center;">
-    أعمل حاليًا كمهندس مكتب فني في مشاريع البنية التحتية،
-المشاريع السابقة طرق و ترع وشبكات ضغط المياه و حاليا القطر الكهربائي السريع
-ولدي خبرة جيدة في إعداد الرسومات التنفيذية والحصر ونمذجة المشاريع باستخدام 
-Civil 3D و Revit.
-والتنسيق بين اطقم المشروع المساحة والتنفيذ والمكتب
+  <h3 style="text-align: center; color: #333;">👷‍♂️ مهندس مكتب فني</h3>
+  <p style="font-size: 14px; color: #444; line-height: 1.8; text-align: center;">
+     في مشاريع البنية التحتية،
+المشاريع السابقة طرق و قنوات المياه (الترع) وشبكات ضغط المياه و حاليا القطر الكهربائي السريع
+ولدي خبرة جيدة في إعداد الرسومات التنفيذية والحصر ونمذجة المشاريع بشكل يساعد في تصور ودراسة المشروع والعمل علي تفادي المشاكل المستقبلية
+والتنسيق بين الاقسام وجهات المشروع.
     <br>
-    وأمتلك خبرة برمجية تساعد في تسريع المهام وتقديم حلول دقيقة باستخدام البايثون  
-    <br>
-    <br>
-    📞 للتواصل المباشر: <strong>+20 111 460 7205</strong>  
-    <br>
-    📧 الإيميل: <strong>hosam.mae@gmail.com</strong>
-  </p>
+    وأمتلك خبرة برمجية في تطوير ادوات وكفائة المكتب
+    </p>
 </section>
-
 
 <!--### Personal Website : [http://hmae.rtfd.io/](http://hmae.rtfd.io/) -->
 
 <p align="center">
     <!--a href="https://www.behance.net/hosammae992a">
         <img height=30 src="https://cdn.worldvectorlogo.com/logos/behance-3.svg" alt="behance"/> </a-->
-    <a href="https://linkedin.com/in/hosam-mohamed">
-        <img height=30 src="https://cdn.worldvectorlogo.com/logos/linkedin-logo-2013-1.svg" alt="behance"/> </a> 
+    <br>
+    <a href="https://linkedin.com/in/hosam-mohamed"
+    style="text-align:center; padding: 10px 6px;
+    border: 1px outset buttonborder;
+    border-radius: 3px;
+    color: buttontext;
+    background-color: buttonface;
+    text-decoration: none; margin:1px 20px">Linkedin
+        <!--img style="vertical-align:middle; justify-content:center; display:inline-block; line-height:0; background:#acc; padding:6px 10px" height=30 src="https://cdn.worldvectorlogo.com/logos/linkedin-logo-2013-1.svg" alt="Linkedin"/--> </a>
     <!--a href="https://discord.gg/https://discord.gg/VqTPh6599f">
         <img height=30 src="https://cdn.worldvectorlogo.com/logos/discord-logo-color-wordmark-1.svg" alt="behance"/> </a-->
-    <a style="background:#ee0" href="https://drive.google.com/file/d/1ZbmmnE0qlW0smIZyS0vpFcZzEWNjFp1V/view?usp=sharing"> <h3 style="text-align:center"> * Portfolio * </h3></a>
-    <div style="text-align:center">
-        <a style="background:#bee" href="https://drive.google.com/file/d/1hdi0spA1LWjFwxlChStOaFKaBJey6xux/view?usp=sharing">
-            <h3 style=" display:inline;">"English CV"</h3></a>
+    <a href="https://drive.google.com/file/d/1ZbmmnE0qlW0smIZyS0vpFcZzEWNjFp1V/view?usp=sharing" style="text-align:center; padding: 10px 10px;
+    border: 1px outset buttonborder;
+    border-radius: 3px;
+    color: buttontext;
+    background-color: buttonface;
+    text-decoration: none; margin:1px 20px"> Portfolio </a>
+    <a href="https://drive.google.com/file/d/1hdi0spA1LWjFwxlChStOaFKaBJey6xux/view?usp=sharing"
+        style="text-align:center; padding: 10px 10px;
+    border: 1px outset buttonborder;
+    border-radius: 3px;
+    color: buttontext;
+    background-color: buttonface;
+    text-decoration: none; margin:1px 20px"> CV</a>
+    <!--
         <span style="padding:0px 50px 0px 50px"></span>
-        <a style="background:#bee;" href="https://drive.google.com/file/d/1xFUhHrjY3BAdydjKfZt-XzOvJamZtFse/view?usp=sharing">
-            <h3 style="display:inline;">"Arabic CV"</h3></a>
+        <a href="https://drive.google.com/file/d/1xFUhHrjY3BAdydjKfZt-XzOvJamZtFse/view?usp=sharing"
+        style="text-align:center; padding: 1px 6px;
+    border: 1px outset buttonborder;
+    border-radius: 3px;
+    color: buttontext;
+    background-color: buttonface;
+    text-decoration: none;">"Arabic CV"</h3></a>-->
     </div>
 </p>
 
@@ -126,10 +141,10 @@ Civil 3D و Revit.
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hmae&show_icons=true&locale=en&layout=compact" alt="hmae" /></p-->
 <h4 align='center' style="background:#123; color:#fff"> Workplace </h4>
 
+<iframe src="https://www.behance.net/embed/project/228924841?ilo0=1" height="200" width="300" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 <iframe src="https://www.behance.net/embed/project/224099993?ilo0=1" height="200" width="300" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 <iframe src="https://www.behance.net/embed/project/224100963?ilo0=1" height="200" width="300" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 <iframe src="https://www.behance.net/embed/project/224102025?ilo0=1" height="200" width="300" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 <iframe src="https://www.behance.net/embed/project/228922935?ilo0=1" height="200" width="300" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
-<iframe src="https://www.behance.net/embed/project/228924841?ilo0=1" height="200" width="300" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 <iframe src="https://www.behance.net/embed/project/228925783?ilo0=1" height="200" width="300" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 <h4 align='center' style="background:#123; color:#fff"> hmae @2025 </h4>
