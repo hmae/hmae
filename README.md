@@ -61,7 +61,6 @@
     color: buttontext;
     background-color: buttonface;
     text-decoration: none;">"Arabic CV"</h3></a>-->
-    </div>
 </p>
 
 <!--p align=left>
