@@ -3,168 +3,206 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Hosam Mohamed — Technical Office Engineer</title>
+  <title>Hosam Mohamed — Portfolio & CV</title>
+  <meta name="description" content="Hosam Mohamed — Technical Office Engineer | BIM & Automation. Civil 3D, Revit, InfraWorks, Python, Dynamo, Blender. Portfolio & resume." />
   <style>
     :root{
-      --bg:#0f1724; --card:#0b1220; --muted:#98a0aa; --accent:#06b6d4; --accent-2:#7c3aed;
-      --glass: rgba(255,255,255,0.04);
-      font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+      --bg:#071226; --card:#07162a; --muted:#9fb0c0; --accent:#06b6d4; --accent-2:#7c3aed;
+      font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
     }
     *{box-sizing:border-box}
     body{
-      margin:0; background:linear-gradient(180deg,var(--bg), #071127 120%);
-      color:#e6eef8; -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
-      padding:28px;
+      margin:0; background:linear-gradient(180deg,var(--bg) 0%, #041024 120%);
+      color:#e6eef8; -webkit-font-smoothing:antialiased; padding:22px;
     }
-    .container{max-width:980px;margin:0 auto;}
-    header{
-      display:flex;gap:18px;align-items:center;margin-bottom:18px;
-    }
-    .avatar{
-      width:86px;height:86px;border-radius:14px;background:linear-gradient(135deg,var(--accent),var(--accent-2));
-      display:flex;align-items:center;justify-content:center;font-weight:700;font-size:28px;color:#021022;box-shadow:0 6px 18px rgba(7,12,23,0.7);
-    }
-    .title h1{margin:0;font-size:20px;letter-spacing:-0.2px}
-    .title p{margin:4px 0 0;color:var(--muted);font-size:13px}
+    .wrap{max-width:980px;margin:0 auto;}
+    header{display:flex;gap:16px;align-items:center;margin-bottom:18px}
+    .avatar{width:86px;height:86px;border-radius:14px;background:linear-gradient(135deg,var(--accent),var(--accent-2));display:flex;align-items:center;justify-content:center;font-weight:800;font-size:28px;color:#021022;box-shadow:0 10px 30px rgba(2,6,23,0.7)}
+    h1{margin:0;font-size:20px}
+    .title p{margin:6px 0 0;color:var(--muted);font-size:13px}
+    .meta{color:var(--muted);font-size:13px;margin-top:6px}
     .actions{margin-left:auto;display:flex;gap:8px}
-    .btn{
-      border:0;padding:8px 12px;border-radius:10px;background:var(--glass);color:var(--accent);cursor:pointer;font-weight:600;font-size:13px;
-      backdrop-filter: blur(6px);box-shadow: inset 0 1px 0 rgba(255,255,255,0.02);
-    }
-    .btn.primary{background:linear-gradient(90deg,var(--accent),var(--accent-2));color:#032033}
-    main{display:grid;grid-template-columns:1fr 360px;gap:18px;margin-top:18px}
+    .btn{border:0;padding:8px 12px;border-radius:10px;background:rgba(255,255,255,0.03);color:var(--accent);cursor:pointer;font-weight:600;font-size:13px}
+    .btn.primary{background:linear-gradient(90deg,var(--accent),var(--accent-2));color:#041826}
+    main{display:grid;grid-template-columns:1fr 340px;gap:18px;margin-top:16px}
     .card{background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01)); padding:18px;border-radius:12px;box-shadow:0 6px 30px rgba(2,6,23,0.6)}
     h2{margin:0 0 10px;font-size:15px}
     p.lead{color:var(--muted);margin:6px 0 12px;font-size:14px;line-height:1.45}
     ul.bullets{padding-left:16px;margin:6px 0 0;list-style:disc}
     ul.bullets li{margin:8px 0;color:#eaf6ff}
-    .meta{font-size:13px;color:var(--muted);margin-top:6px}
-    aside .stat{display:flex;align-items:center;justify-content:space-between;padding:10px 12px;border-radius:8px;background:rgba(255,255,255,0.01);margin-bottom:8px}
-    .small{font-size:13px;color:var(--muted)}
-    .skills{display:flex;flex-wrap:wrap;gap:8px}
+    .skills{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
     .chip{background:rgba(255,255,255,0.03);padding:6px 8px;border-radius:8px;font-size:13px;color:#dbeefd}
+    aside .stat{display:flex;align-items:center;justify-content:space-between;padding:10px 12px;border-radius:8px;background:rgba(255,255,255,0.01);margin-bottom:8px}
+    .projects{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+    .proj{background:rgba(255,255,255,0.02);padding:12px;border-radius:10px}
+    .proj h3{margin:0;font-size:14px}
+    .proj p{margin:6px 0 0;color:var(--muted);font-size:13px}
+    a.link{color:var(--accent); text-decoration:none}
     footer{margin-top:18px;color:var(--muted);font-size:13px;text-align:center}
     @media (max-width:880px){
       main{grid-template-columns:1fr; padding-bottom:40px}
       .actions{display:none}
-    }
-    /* print */
-    @media print{
-      body{background:white;color:black}
-      .card{box-shadow:none;background:transparent}
-      .avatar{display:none}
+      .projects{grid-template-columns:1fr}
     }
   </style>
 </head>
 <body>
-  <div class="container">
+  <div class="wrap">
     <header>
       <div class="avatar">HM</div>
       <div class="title">
         <h1>Hosam Mohamed</h1>
         <p>Senior Technical Office Engineer — Infrastructure & Residential Projects</p>
-        <div class="meta">Modeling (Civil3D, InfraWorks, Revit), Quantity Surveying, Python & Dynamo Automation, Site Coordination</div>
+        <div class="meta">Civil 3D • Revit • InfraWorks • SAC • Python • Dynamo • Blender • Quantity Survey • Site Coordination</div>
       </div>
 
       <div class="actions" role="toolbar" aria-label="actions">
-        <button class="btn" onclick="copyProfile()">Copy text</button>
-        <button class="btn primary" onclick="window.print()">Print / Save PDF</button>
+        <button class="btn" onclick="copyBio()">Copy Summary</button>
+        <a id="downloadCV" class="btn primary" href="#" download="Hosam_Mohamed_CV.pdf">Download CV</a>
       </div>
     </header>
 
     <main>
-      <!-- Left: main content -->
+      <!-- Left -->
       <section>
-        <div class="card" aria-labelledby="summary">
-          <h2 id="summary">Professional Summary</h2>
-          <p class="lead">Technical Office Engineer with hands-on experience in infrastructure and residential projects. Skilled in drawings review, 3D modeling (Civil 3D, InfraWorks, Revit), quantity take-offs, site coordination, and automating workflows using Python and Dynamo.</p>
+        <div class="card">
+          <h2>About</h2>
+          <p class="lead">Technical Office Engineer experienced in infrastructure and structural projects, including roads, railways, water networks, and residential buildings.
+Skilled in 3D modeling (Civil 3D, Revit, InfraWorks, Blender), Subassembly Composer (SAC) for corridors, and Python/Dynamo automation to streamline reporting and BOQs.
+I bring strong technical understanding of project execution, from drawings and specifications to quantities, site coordination, and quality alignment.</p>
         </div>
 
-        <div class="card" aria-labelledby="experience" style="margin-top:12px">
-          <h2 id="experience">Key Responsibilities</h2>
-
-          <ul class="bullets">
-            <li>Reviewed project drawings, profiles, and cross-sections; studied technical specifications and geotechnical reports.</li>
-            <li>Prepared cross-sections using <strong>Subassembly Composer (SAC)</strong> and developed project model in <strong>Civil 3D</strong> with IFC/FBX export capability.</li>
-            <li>Built infrastructure models in <strong>InfraWorks</strong>, visual models in <strong>Blender</strong>, and preliminary <strong>Revit</strong> models (e.g., culverts with rebar & concrete details).</li>
-            <li>Performed quantity take-offs for earthworks, slope protection, and concrete works.</li>
-            <li>Prepared detailed earthwork layers & cross-sections based on soil reports and execution methods.</li>
-            <li>Created and maintained <strong>IR Logs</strong> and prepared progress reports using advanced Excel formulas (Filter, Unique, IF, SUMIF, MATCH, VLOOKUP, etc.).</li>
-            <li>Developed master spreadsheets for cut & fill analysis, automatic layer widths, and site delivery sheets.</li>
-            <li>Automated data processing workflows using <strong>Python</strong> to parse Civil 3D reports and prepare organized Excel tables.</li>
-            <li>Applied <strong>Dynamo</strong> scripts for surface rebuilds, importing survey points (TXT), grouping points, and generating surfaces efficiently.</li>
-            <li>Coordinated with <strong>site execution, quality control, and survey</strong> teams to resolve discrepancies and ensure design compliance.</li>
-          </ul>
+       <!-- Key Responsibilities Section -->
+        <div class="card" style="margin-top:12px">
+            <h2>Key Responsibilities</h2>
+            <ul class="bullets">
+                 <li>Review of <strong>drawings, profiles, cross-sections, and technical specifications</strong>.</li>
+                 <li><strong>3D modeling and shop drawings</strong> using Civil 3D, Revit, and InfraWorks.</li>
+                 <li>Development with <strong>Subassembly Composer (SAC)</strong> for corridor and roadway design.</li>
+                 <li>Preparation of <strong>BOQ, quantity take-offs, and cost estimation</strong> for earthworks and HDPE networks.</li>
+                 <li>Creation of <strong>Master Sheets and automated Site Sheets</strong> for progress tracking and layer-by-layer fill quantities.</li>
+                 <li>Advanced <strong>Excel reporting tools</strong> (Filter, UNIQUE, IF, SUMIF, VLOOKUP, MATCH) to manage IR logs and delivery sheets.</li>
+                 <li>Workflow automation with <strong>Python scripts</strong> and <strong>Dynamo</strong> to rebuild surfaces, import points, and streamline reports.</li>
+                 <li><strong>Coordination</strong> with site, survey, and quality teams to ensure compliance and smooth project execution.</li>
+            </ul>
         </div>
+
+        <!-- Selected Achievements Section -->
+<div class="card" style="margin-top:12px">
+  <h2>Selected Achievements</h2>
+  <ul class="bullets">
+    <li>Developed <strong>Master Sheets</strong> automating cut & fill volumes, layer widths, and progress tracking from road alignment data.</li>
+    <li>Created <strong>automated Site Sheets</strong> for monitoring layer-by-layer fill quantities and delivery reports.</li>
+    <li>Implemented <strong>Python scripts</strong> that streamlined Civil 3D report processing, reducing manual reporting time significantly.</li>
+    <li>Integrated Civil 3D models with <strong>InfraWorks and Blender</strong> for stakeholder visualization and design reviews.</li>
+    <li>Enhanced project workflows by combining <strong>Excel automation</strong> with BIM data, ensuring faster and more accurate BOQs.</li>
+  </ul>
+</div>
 
         <div class="card" style="margin-top:12px">
-          <h2>Selection of Achievements</h2>
-          <ul class="bullets">
-            <li>Integrated Civil 3D models with InfraWorks for visualization and stakeholder reviews.</li>
-            <li>Reduced manual reporting time by scripting automated data extraction and Excel population.</li>
-            <li>Prepared master sheets that automatically compute cut/fill volumes and layer widths from road alignment.</li>
-          </ul>
+          <h2 id="portfolio">Portfolio & Projects</h2>
+
+          <div class="projects">
+            <!-- Project 1 -->
+            <!-- Railway Project -->
+<div class="proj">
+  <h3>🚆 Electric Express Train — Blue Line (Isna)</h3>
+  <p>
+    <strong>Type:</strong> Railway Infrastructure <br>
+    <strong>Role:</strong> Alignment review, 3D corridor modeling with Civil 3D & SAC, shop drawings, quantity take-offs, InfraWorks visualization, and automated Excel sheets for progress reporting. <br>
+    <strong>Key Contribution:</strong> Delivered accurate corridor models and automated reporting systems, improving design coordination and reducing manual effort.
+  </p>
+</div>
+            <!-- Project 2 -->
+            <!-- Road Project -->
+<div class="proj">
+  <h3>🛣️ Balana–Kalabsha Road Efficiency</h3>
+  <p>
+    <strong>Type:</strong> Road Project <br>
+    <strong>Role:</strong> Took over the project after execution had started, conducted a full re-quantification based on as-built works, recalculated remaining quantities, and prepared updated BOQs. Developed periodic reports to track progress and assisted in preparing interim payment certificates. <br>
+    <strong>Key Contribution:</strong> Streamlined project control by aligning actual executed works with updated quantities and progress reports, ensuring accurate monitoring and smoother payment cycles.
+  </p>
+</div>
+
+            <!-- Project 3 -->
+            <!-- Toshka Project -->
+<!-- Toshka Project (Desert Land Reclamation for Agriculture) -->
+<div class="proj">
+  <h3>🌊 Desert Land Reclamation for Agriculture — Toshka Project</h3>
+  <p>
+    <strong>Type:</strong> Large-Scale Infrastructure / Irrigation <br>
+    <strong>Role:</strong> Prepared shop drawings, IR logs, and managed owner & subcontractor payment certificates. Developed comprehensive quantity sheets and periodic progress reports, tracking subcontractor works by item and time. Coordinated with site and survey teams to extract and validate survey data. Worked across multiple phases in Zone R and Zone S covering canals, networks, and service roads. In Zone S supported rehabilitation of an existing canal and its integration with a new canal. <br>
+    <strong>Key Contribution:</strong> Established structured reporting and BOQ systems that improved transparency, ensured effective tracking of deliveries, and supported smooth coordination across diverse infrastructure works.
+  </p>
+</div>
+            <!-- Add more projects as needed -->
+          </div>
         </div>
       </section>
 
-      <!-- Right: sidebar -->
+      <!-- Right -->
       <aside>
         <div class="card">
           <h2>Contact</h2>
-          <div class="small">Location: Egypt</div>
-          <div class="small">Email: <em>hosam.mae@gmail.com</em></div>
-          <div class="small">LinkedIn: <a href="https://www.linkedin.com/in/hosam-mohamed" target="_blank" style="color:var(--accent)">linkedin.com/in/hosam-mohamed</a></div>
+          <div class="meta">Location: Suhag, Egypt</div>
+          <div style="margin-top:8px"><strong>Email:</strong> <a class="link" href="mailto:hosam.mae@gmail.com">hosam.mae@gmail.com</a></div>
+          <div style="margin-top:6px"><strong>Phone:</strong> +20 111 460 7205</div>
+          <div style="margin-top:6px"><strong>LinkedIn:</strong> <a class="link" href="https://www.linkedin.com/in/hosam-mohamed" target="_blank">linkedin.com/in/hosam-mohamed</a></div>
+          <div style="margin-top:6px"><strong>GitHub:</strong> <a class="link" href="https://github.com/hmae" target="_blank">github.com/hmae</a></div>
         </div>
 
         <div class="card" style="margin-top:12px">
-          <h2>Skills</h2>
-          <div class="skills" style="margin-top:8px">
+          <h2>Skills & Tools</h2>
+          <div class="skills">
             <span class="chip">Civil 3D</span>
-            <span class="chip">SAC</span>
-            <span class="chip">InfraWorks</span>
             <span class="chip">Revit (BIM)</span>
+            <span class="chip">InfraWorks</span>
+            <span class="chip">Subassembly Composer (SAC)</span>
+            <span class="chip">Python</span>
             <span class="chip">Dynamo</span>
-            <span class="chip">Python (Automation)</span>
+            <span class="chip">Blender</span>
             <span class="chip">Excel (advanced)</span>
             <span class="chip">Quantity Survey</span>
-            <span class="chip">Site Coordination</span>
           </div>
         </div>
 
         <div class="card" style="margin-top:12px">
-          <h2>Tools / Software</h2>
-          <div class="small" style="margin-top:8px">Civil 3D • InfraWorks • Revit • SAC • Blender • Dynamo • Python • Excel</div>
+          <h2>Certifications</h2>
+          <div class="meta">Revit Structure (Edraak, 2025)</div>
+          <div class="meta">Python Core (SoloLearn, 2020) — ML & DL Courses (Udemy, 2019)</div>
         </div>
       </aside>
     </main>
 
     <footer>
-      <div>Want this as a one-page printable CV? Click <strong>Print / Save PDF</strong> above and adjust margins to produce a clean PDF.</div>
+      <div>Made with ❤️ • Hosam Mohamed — <a class="link" href="#portfolio">View projects</a></div>
     </footer>
   </div>
 
   <script>
-    function copyProfile(){
+    // ========== EDIT: set real links ==========
+    const DOWNLOAD_CV_LINK = "https://raw.githubusercontent.com/hmae/hmae/master/ATS_AI - cv_Hosam Mohamed - 2025 - 8.docx";
+    // Example: GitHub repo, mkdocs site, project links
+    const PROJECT_LINKS = [
+      "https://github.com/hmae/electric-express-train", // project 1
+      "https://github.com/hmae/balana-road",            // project 2
+      "https://hmae.github.io/resume/"                  // mkdocs resume or docs site
+    ];
+
+    // inject links if not empty
+    document.getElementById('downloadCV').href = DOWNLOAD_CV_LINK;
+    const projAnchors = document.querySelectorAll('.proj a.link');
+    projAnchors.forEach((a,i)=> {
+      if(PROJECT_LINKS[i]) a.href = PROJECT_LINKS[i];
+      else a.removeAttribute('href');
+    });
+
+    function copyBio(){
       const text = [
         "Hosam Mohamed — Senior Technical Office Engineer",
-        "",
-        "Summary:",
-        "Technical Office Engineer with hands-on experience in infrastructure and residential projects. Skilled in drawings review, 3D modeling (Civil3D, InfraWorks, Revit), quantity take-offs, site coordination, and automating workflows using Python and Dynamo.",
-        "",
-        "Key Responsibilities:",
-        "• Reviewed project drawings, profiles, and cross-sections; studied technical specifications and geotechnical reports.",
-        "• Prepared cross-sections using Subassembly Composer (SAC) and developed Civil 3D models with IFC/FBX export capability.",
-        "• Built models in InfraWorks, Blender, and preliminary Revit models (culverts with rebar & concrete details).",
-        "• Performed quantity take-offs for earthworks, slope protection, and concrete works.",
-        "• Prepared detailed earthwork layers & cross-sections based on soil reports and execution methods.",
-        "• Created and maintained IR Logs and prepared progress reports using advanced Excel formulas.",
-        "• Developed master spreadsheets for cut & fill analysis and automated site delivery sheets.",
-        "• Automated workflows using Python and used Dynamo for surface rebuilding and point imports.",
-        "• Coordinated with site execution, quality control, and survey teams to ensure design compliance.",
+        "Technical Office Engineer with hands-on experience in infrastructure and residential projects. Skilled in Civil 3D, Revit, InfraWorks, SAC, Python, Dynamo, and Blender. Experience in modeling, shop drawings, quantities, BOQ, progress reporting, and coordination."
       ].join("\\n");
-      navigator.clipboard?.writeText(text).then(()=>{
-        alert("Profile copied to clipboard — paste into LinkedIn or your CV.");
-      }).catch(()=>{ alert("Could not copy automatically. Please select the text manually."); });
+      navigator.clipboard?.writeText(text).then(()=>{ alert("Summary copied to clipboard."); }).catch(()=>{ alert("Could not copy automatically. Select & copy manually."); });
     }
   </script>
 </body>
