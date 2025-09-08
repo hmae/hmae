@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Hosam Mohamed — Technical Office Engineer</title>
+  <style>
+    :root{
+      --bg:#0f1724; --card:#0b1220; --muted:#98a0aa; --accent:#06b6d4; --accent-2:#7c3aed;
+      --glass: rgba(255,255,255,0.04);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0; background:linear-gradient(180deg,var(--bg), #071127 120%);
+      color:#e6eef8; -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
+      padding:28px;
+    }
+    .container{max-width:980px;margin:0 auto;}
+    header{
+      display:flex;gap:18px;align-items:center;margin-bottom:18px;
+    }
+    .avatar{
+      width:86px;height:86px;border-radius:14px;background:linear-gradient(135deg,var(--accent),var(--accent-2));
+      display:flex;align-items:center;justify-content:center;font-weight:700;font-size:28px;color:#021022;box-shadow:0 6px 18px rgba(7,12,23,0.7);
+    }
+    .title h1{margin:0;font-size:20px;letter-spacing:-0.2px}
+    .title p{margin:4px 0 0;color:var(--muted);font-size:13px}
+    .actions{margin-left:auto;display:flex;gap:8px}
+    .btn{
+      border:0;padding:8px 12px;border-radius:10px;background:var(--glass);color:var(--accent);cursor:pointer;font-weight:600;font-size:13px;
+      backdrop-filter: blur(6px);box-shadow: inset 0 1px 0 rgba(255,255,255,0.02);
+    }
+    .btn.primary{background:linear-gradient(90deg,var(--accent),var(--accent-2));color:#032033}
+    main{display:grid;grid-template-columns:1fr 360px;gap:18px;margin-top:18px}
+    .card{background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01)); padding:18px;border-radius:12px;box-shadow:0 6px 30px rgba(2,6,23,0.6)}
+    h2{margin:0 0 10px;font-size:15px}
+    p.lead{color:var(--muted);margin:6px 0 12px;font-size:14px;line-height:1.45}
+    ul.bullets{padding-left:16px;margin:6px 0 0;list-style:disc}
+    ul.bullets li{margin:8px 0;color:#eaf6ff}
+    .meta{font-size:13px;color:var(--muted);margin-top:6px}
+    aside .stat{display:flex;align-items:center;justify-content:space-between;padding:10px 12px;border-radius:8px;background:rgba(255,255,255,0.01);margin-bottom:8px}
+    .small{font-size:13px;color:var(--muted)}
+    .skills{display:flex;flex-wrap:wrap;gap:8px}
+    .chip{background:rgba(255,255,255,0.03);padding:6px 8px;border-radius:8px;font-size:13px;color:#dbeefd}
+    footer{margin-top:18px;color:var(--muted);font-size:13px;text-align:center}
+    @media (max-width:880px){
+      main{grid-template-columns:1fr; padding-bottom:40px}
+      .actions{display:none}
+    }
+    /* print */
+    @media print{
+      body{background:white;color:black}
+      .card{box-shadow:none;background:transparent}
+      .avatar{display:none}
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="avatar">HM</div>
+      <div class="title">
+        <h1>Hosam Mohamed</h1>
+        <p>Senior Technical Office Engineer — Infrastructure & Residential Projects</p>
+        <div class="meta">Modeling (Civil3D, InfraWorks, Revit), Quantity Surveying, Python & Dynamo Automation, Site Coordination</div>
+      </div>
+
+      <div class="actions" role="toolbar" aria-label="actions">
+        <button class="btn" onclick="copyProfile()">Copy text</button>
+        <button class="btn primary" onclick="window.print()">Print / Save PDF</button>
+      </div>
+    </header>
+
+    <main>
+      <!-- Left: main content -->
+      <section>
+        <div class="card" aria-labelledby="summary">
+          <h2 id="summary">Professional Summary</h2>
+          <p class="lead">Technical Office Engineer with hands-on experience in infrastructure and residential projects. Skilled in drawings review, 3D modeling (Civil 3D, InfraWorks, Revit), quantity take-offs, site coordination, and automating workflows using Python and Dynamo.</p>
+        </div>
+
+        <div class="card" aria-labelledby="experience" style="margin-top:12px">
+          <h2 id="experience">Key Responsibilities</h2>
+
+          <ul class="bullets">
+            <li>Reviewed project drawings, profiles, and cross-sections; studied technical specifications and geotechnical reports.</li>
+            <li>Prepared cross-sections using <strong>Subassembly Composer (SAC)</strong> and developed project model in <strong>Civil 3D</strong> with IFC/FBX export capability.</li>
+            <li>Built infrastructure models in <strong>InfraWorks</strong>, visual models in <strong>Blender</strong>, and preliminary <strong>Revit</strong> models (e.g., culverts with rebar & concrete details).</li>
+            <li>Performed quantity take-offs for earthworks, slope protection, and concrete works.</li>
+            <li>Prepared detailed earthwork layers & cross-sections based on soil reports and execution methods.</li>
+            <li>Created and maintained <strong>IR Logs</strong> and prepared progress reports using advanced Excel formulas (Filter, Unique, IF, SUMIF, MATCH, VLOOKUP, etc.).</li>
+            <li>Developed master spreadsheets for cut & fill analysis, automatic layer widths, and site delivery sheets.</li>
+            <li>Automated data processing workflows using <strong>Python</strong> to parse Civil 3D reports and prepare organized Excel tables.</li>
+            <li>Applied <strong>Dynamo</strong> scripts for surface rebuilds, importing survey points (TXT), grouping points, and generating surfaces efficiently.</li>
+            <li>Coordinated with <strong>site execution, quality control, and survey</strong> teams to resolve discrepancies and ensure design compliance.</li>
+          </ul>
+        </div>
+
+        <div class="card" style="margin-top:12px">
+          <h2>Selection of Achievements</h2>
+          <ul class="bullets">
+            <li>Integrated Civil 3D models with InfraWorks for visualization and stakeholder reviews.</li>
+            <li>Reduced manual reporting time by scripting automated data extraction and Excel population.</li>
+            <li>Prepared master sheets that automatically compute cut/fill volumes and layer widths from road alignment.</li>
+          </ul>
+        </div>
+      </section>
+
+      <!-- Right: sidebar -->
+      <aside>
+        <div class="card">
+          <h2>Contact</h2>
+          <div class="small">Location: Egypt</div>
+          <div class="small">Email: <em>your.email@example.com</em></div>
+          <div class="small">LinkedIn: <a href="https://www.linkedin.com/in/hosam-mohamed" target="_blank" style="color:var(--accent)">linkedin.com/in/hosam-mohamed</a></div>
+        </div>
+
+        <div class="card" style="margin-top:12px">
+          <h2>Skills</h2>
+          <div class="skills" style="margin-top:8px">
+            <span class="chip">Civil 3D</span>
+            <span class="chip">SAC</span>
+            <span class="chip">InfraWorks</span>
+            <span class="chip">Revit (BIM)</span>
+            <span class="chip">Dynamo</span>
+            <span class="chip">Python (Automation)</span>
+            <span class="chip">Excel (advanced)</span>
+            <span class="chip">Quantity Survey</span>
+            <span class="chip">Site Coordination</span>
+          </div>
+        </div>
+
+        <div class="card" style="margin-top:12px">
+          <h2>Tools / Software</h2>
+          <div class="small" style="margin-top:8px">Civil 3D • InfraWorks • Revit • SAC • Blender • Dynamo • Python • Excel</div>
+        </div>
+      </aside>
+    </main>
+
+    <footer>
+      <div>Want this as a one-page printable CV? Click <strong>Print / Save PDF</strong> above and adjust margins to produce a clean PDF.</div>
+    </footer>
+  </div>
+
+  <script>
+    function copyProfile(){
+      const text = [
+        "Hosam Mohamed — Senior Technical Office Engineer",
+        "",
+        "Summary:",
+        "Technical Office Engineer with hands-on experience in infrastructure and residential projects. Skilled in drawings review, 3D modeling (Civil3D, InfraWorks, Revit), quantity take-offs, site coordination, and automating workflows using Python and Dynamo.",
+        "",
+        "Key Responsibilities:",
+        "• Reviewed project drawings, profiles, and cross-sections; studied technical specifications and geotechnical reports.",
+        "• Prepared cross-sections using Subassembly Composer (SAC) and developed Civil 3D models with IFC/FBX export capability.",
+        "• Built models in InfraWorks, Blender, and preliminary Revit models (culverts with rebar & concrete details).",
+        "• Performed quantity take-offs for earthworks, slope protection, and concrete works.",
+        "• Prepared detailed earthwork layers & cross-sections based on soil reports and execution methods.",
+        "• Created and maintained IR Logs and prepared progress reports using advanced Excel formulas.",
+        "• Developed master spreadsheets for cut & fill analysis and automated site delivery sheets.",
+        "• Automated workflows using Python and used Dynamo for surface rebuilding and point imports.",
+        "• Coordinated with site execution, quality control, and survey teams to ensure design compliance.",
+      ].join("\\n");
+      navigator.clipboard?.writeText(text).then(()=>{
+        alert("Profile copied to clipboard — paste into LinkedIn or your CV.");
+      }).catch(()=>{ alert("Could not copy automatically. Please select the text manually."); });
+    }
+  </script>
+</body>
+</html>
