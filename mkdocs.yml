@@ -17,7 +17,7 @@ theme:
     
   favicon: hello.jpg
 nav:
-  - Resume : /
+  - Resume : /index.html
   - Portfolio: portfolio.md
 
 markdown_extensions:
